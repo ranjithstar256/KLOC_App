@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KLOC App</string>
+    <string name="log_in">Log in</string>
+    <string name="google_sign_up">Sign Up with Google</string>
+    <string name="apple_sign_up">Sign Up with Apple</string>
+
+    <string name="title">Happening Now</string>
+
+    <string name="toc"><p>By signing up, you agree to the
+        <a href="https://twitter.com/en/tos">Terms of Service</a> and
+        <a href="https://twitter.com/en/privacy">Privacy Policy</a>,
+        including Cookie Use.</p>
+</string>
+
+</resources>
